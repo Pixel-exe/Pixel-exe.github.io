@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Flag",
+      "sources": [
+        "https://i.imgur.com/2uKANKp.png"
+      ],
+      "x": 87,
+      "y": 1479
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
